@@ -1,0 +1,2 @@
+saaks lisada tunni plaani andmebaasi ja seostada seda "groupcode" nimega
+saaks ka lisada õpetajate nimed ja mis tunde nad õpetavad
